@@ -2,3 +2,4 @@ Add Water
 Heat the water
 Add powder
 Add milk
+heat the milk
